@@ -1,29 +1,194 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram name="第 1 页" id="esFKHhWKRmyAAd2-pGji">
-    <mxGraphModel dx="525" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3011" dy="2374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lukaGx7ELg2Nd6_NAuGG-1" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;管理员管理同步任务的核心服务类&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="188" width="230" height="30" as="geometry" />
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#432D57;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="700" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="lukaGx7ELg2Nd6_NAuGG-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="34" y="240" width="380" height="150" as="geometry" />
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-1" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;管理员管理同步任务的核心服务类&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="109" y="140" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lukaGx7ELg2Nd6_NAuGG-3" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;lasAdminService&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="34" y="220" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-3" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;lasAdminService&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="70" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lukaGx7ELg2Nd6_NAuGG-4" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;fullSyncTaskService&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-4" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;fullSyncTaskService&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="215" y="260" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lukaGx7ELg2Nd6_NAuGG-5" value="获取全量同步、增量同步任务详情、列表、配置，&lt;div&gt;取消、终止任务，&lt;/div&gt;&lt;div&gt;判断是否可重试、重试任务、忽略重试任务&lt;/div&gt;&lt;div&gt;获取最近同步时间等等&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-5" value="获取全量同步、增量同步任务详情、列表、配置，&lt;div&gt;取消、终止任务，&lt;/div&gt;&lt;div&gt;判断是否可重试、重试任务、忽略重试任务&lt;/div&gt;&lt;div&gt;获取最近同步时间等等&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="300" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lukaGx7ELg2Nd6_NAuGG-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="440" y="285" width="120" height="60" as="geometry" />
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-1" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Admin&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lukaGx7ELg2Nd6_NAuGG-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="750" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-2" value="ecisaccountsync\src\modules\admin\index.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94" y="178" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="420" width="250" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" parent="F0n4oQKzwYaz-M7oN8y_-15" vertex="1">
+          <mxGeometry x="10" y="112" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-3" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;日志服务类&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry x="90" y="32" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-4" value="ecisaccountsync\src\modules\admin\log.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry y="70" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-5" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;LogService&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry x="75" y="122" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-6" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(216, 222, 233); line-height: 19px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;log&lt;/span&gt; &lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(148, 193, 250);&quot;&gt;log&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry x="20" y="157" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%20style%3D%26quot%3Bcolor%3A%20rgb(216%2C%20222%2C%20233)%3B%20font-family%3A%20Consolas%2C%20%26amp%3Bquot%3BCourier%20New%26amp%3Bquot%3B%2C%20monospace%3B%20font-size%3A%2014px%3B%20line-height%3A%2019px%3B%20white-space%3A%20pre%3B%26quot%3B%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bline-height%3A%2019px%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(170%2C%20155%2C%20245)%3B%26quot%3B%26gt%3BfullSyncTaskService%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22215%22%20y%3D%22260%22%20width%3D%22155%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry x="130" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-9" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(216, 222, 233); line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;uaParser&lt;/span&gt; &lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(131, 214, 197);&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;UAParser&lt;/span&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry x="20" y="192" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-10" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(216, 222, 233); line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;audit&lt;/span&gt; &lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(148, 193, 250);&quot;&gt;audit&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry x="115" y="157" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-12" value="记录日志、获取IP信息&lt;div&gt;解析设备信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-15">
+          <mxGeometry x="55" y="232" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="720" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-7" value="定义了各种接口和变量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" parent="F0n4oQKzwYaz-M7oN8y_-16" vertex="1">
+          <mxGeometry x="20" y="80" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-13" value="ecisaccountsync\src\modules\admin\type.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-16">
+          <mxGeometry y="38" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-14" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;i&gt;类型文件&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-16">
+          <mxGeometry x="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="130" width="1130" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;opacity=80;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry y="85" width="340" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-18" value="ecisaccountsync\src\sdk\cognac\common\log\log.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="25" y="48" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-30" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;i&gt;Log模块&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="140" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-31" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;span style=&quot;color: rgb(148, 193, 250);&quot;&gt;__logger&lt;/span&gt;&lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;Logger&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="30" y="110" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-33" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128); font-weight: bold;&quot;&gt;debug&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="30" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-35" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128); font-weight: bold;&quot;&gt;error&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="180" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-36" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128); font-weight: bold;&quot;&gt;info&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="110" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-37" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128); font-weight: bold;&quot;&gt;warn&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="250" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;opacity=80;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="420" y="85" width="340" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-39" value="ecisaccountsync\src\sdk\cognac\common\log\ConsoleLogger.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="415" y="48" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-40" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;日志记录器实现&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="535" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-41" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(239, 176, 128); font-weight: bold;&quot;&gt;log&lt;/span&gt;(&lt;span style=&quot;color: rgb(214, 214, 221); font-style: italic;&quot;&gt;options&lt;/span&gt;&lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;Options&lt;/span&gt;)&lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: rgb(130, 210, 206);&quot;&gt;void&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="450" y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-46" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;ConsoleLogger &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(130, 210, 206);&quot;&gt;implements&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 222, 233);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;Logger&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="460" y="85" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="F0n4oQKzwYaz-M7oN8y_-59" source="F0n4oQKzwYaz-M7oN8y_-31" target="F0n4oQKzwYaz-M7oN8y_-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-57" value="" style="group" vertex="1" connectable="0" parent="F0n4oQKzwYaz-M7oN8y_-59">
+          <mxGeometry x="810" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;opacity=80;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-57">
+          <mxGeometry x="20" y="75" width="270" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-49" value="ecisaccountsync\src\sdk\cognac\common\log\Logger.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-57">
+          <mxGeometry y="38" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-50" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;i&gt;类型文件&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-57">
+          <mxGeometry x="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-54" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;Logger&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-57">
+          <mxGeometry x="50" y="90" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-55" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;Options&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-57">
+          <mxGeometry x="170" y="130" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-56" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;Mode&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-57">
+          <mxGeometry x="170" y="90" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-51" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;Level&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-57">
+          <mxGeometry x="50" y="130" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-58" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1.01;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="F0n4oQKzwYaz-M7oN8y_-59" source="F0n4oQKzwYaz-M7oN8y_-46" target="F0n4oQKzwYaz-M7oN8y_-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="370" as="sourcePoint" />
+            <mxPoint x="950" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="600" y="642" width="290" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-61" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;docmini&lt;/span&gt; &lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(148, 193, 250);&quot;&gt;docmini&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="660" y="660" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-62" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;审计日志服务类&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-63" value="ecisaccountsync\src\modules\audit\index.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="608" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-65" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;rootOpType&lt;/span&gt;&lt;span style=&quot;color: rgb(214, 214, 221);&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: rgb(239, 176, 128);&quot;&gt;BaseOpTypeEnum&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="710" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-68" value="初始化、写入日志、解析日志等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="750" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="991" y="630" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-70" value="定义了各种接口和变量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;opacity=80;fontColor=#ffffff;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-69">
+          <mxGeometry x="20" y="80" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-71" value="ecisaccountsync\src\modules\audit\type.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-69">
+          <mxGeometry y="38" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-72" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;i&gt;类型文件&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="F0n4oQKzwYaz-M7oN8y_-69">
+          <mxGeometry x="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0n4oQKzwYaz-M7oN8y_-65" target="F0n4oQKzwYaz-M7oN8y_-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="750" as="sourcePoint" />
+            <mxPoint x="940" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="1220" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="F0n4oQKzwYaz-M7oN8y_-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7EA6E0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="80" width="460" height="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

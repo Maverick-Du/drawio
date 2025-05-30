@@ -1,0 +1,31 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="第 1 页" id="esFKHhWKRmyAAd2-pGji">
+    <mxGraphModel dx="525" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-1" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;管理员管理同步任务的核心服务类&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="188" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="34" y="240" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-3" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;lasAdminService&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-4" value="&lt;div style=&quot;color: rgb(216, 222, 233); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(170, 155, 245);&quot;&gt;fullSyncTaskService&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="215" y="260" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-5" value="获取全量同步、增量同步任务详情、列表、配置，&lt;div&gt;取消、终止任务，&lt;/div&gt;&lt;div&gt;判断是否可重试、重试任务、忽略重试任务&lt;/div&gt;&lt;div&gt;获取最近同步时间等等&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="440" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lukaGx7ELg2Nd6_NAuGG-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
